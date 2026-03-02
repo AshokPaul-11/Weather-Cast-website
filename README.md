@@ -15,4 +15,4 @@ Features :
 - Dynamic animated weather backgrounds (day/night modes)
 - Auto-refresh weather updates
 
-Team Project Team Name: Byte_Wing (3 Members) | My Name : Ashok Paul
+Team Project Team Name: Byte_Wing (3 Members) | My Name : Ashok Paul | Registration : 2101011011
